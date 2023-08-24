@@ -1,6 +1,6 @@
-import 'package:News_App/Screens/First.dart';
-import 'package:News_App/Screens/Second.dart';
-import 'package:News_App/Screens/Third.dart';
+import 'package:figma/Screens/First.dart';
+import 'package:figma/Screens/Second.dart';
+import 'package:figma/Screens/Third.dart';
 import 'package:flutter/material.dart';
 
 import 'Screens/Forth.dart';
